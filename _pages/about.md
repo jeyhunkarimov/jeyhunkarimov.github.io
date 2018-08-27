@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jeyhun Karimov's personal page"
+title: "Jeyhun Karimov"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
