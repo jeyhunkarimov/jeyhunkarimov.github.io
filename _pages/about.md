@@ -20,28 +20,28 @@ Please feel free to contact <je.karimov@gmail.com> for any question/collaboratio
 
 ### Publications
 - **Clustering Quality Improvement of k-means Using a Hybrid Evolutionary Model**<br/>
-Jeyhun Karimov and Murat Ozbayoglu
+Jeyhun Karimov and Murat Ozbayoglu<br/>
 Procedia Computer Science 61 (2015): 38-45.
 - **Generic menu optimization for multi-profile customer systems**<br/>
-	Jeyhun Karimov, Murat Ozbayoglu, Bulent Tavli, and Erdogan Dogdu
+	Jeyhun Karimov, Murat Ozbayoglu, Bulent Tavli, and Erdogan Dogdu<br/>
 	IEEE International Symposium on Systems Engineering (ISSE), 2015, pp. 163-169.
 - **EDL: Framework for Entity disambiguation and Linking to knowledge bases**<br/>
-Behnam Ojaghi , Jeyhun Karimov and Erdogan Dogdu
+Behnam Ojaghi , Jeyhun Karimov and Erdogan Dogdu<br/>
 IEEE International Conference on Semantic Computing. 2016, California
 - **k-means Performance Improvements with Centroid Calculation Heuristics both for Serial and Parallel environments**<br/>
-Jeyhun Karimov , Murat Ozbayoglu, and Erdogan Dogdu
+Jeyhun Karimov , Murat Ozbayoglu, and Erdogan Dogdu<br/>
 IEEE International Congress on Big Data (BigData Congress), 2015, pp. 444-451
 - **High quality clustering of big data and solving empty-clustering problem with an evolutionary hybrid algorithm**<br/>
-Jeyhun Karimov and Murat Ozbayoglu
+Jeyhun Karimov and Murat Ozbayoglu<br/>
 IEEE International Conference on Big Data, Santa Clara 2015
 - **Stream Benchmarks**<br/>
-Jeyhun Karimov
+Jeyhun Karimov<br/>
 Encyclopedia of Big Data Technologies, 2018
 - **Benchmarking Distributed Stream Data Processing Systems**<br/>
-Jeyhun Karimov Tilmann Rabl , Asterios Katsifodimos, Roman Samarev, Henri Heiskanen, and Volker Markl
+Jeyhun Karimov Tilmann Rabl , Asterios Katsifodimos, Roman Samarev, Henri Heiskanen, and Volker Markl<br/>
 ICDE 2018
 - **PolyBench: The First Benchmark for Polystores**<br/>
-Jeyhun Karimov, Tilmann Rabl, and Volker Markl
+Jeyhun Karimov, Tilmann Rabl, and Volker Markl<br/>
 TPCTC 2018
 
 
