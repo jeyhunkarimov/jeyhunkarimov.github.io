@@ -16,7 +16,7 @@ and a PhD student at TU-Berlin, [Database Systems and Information Management](ht
 I received my M.Sc degree at [TOBB ETU](https://www.etu.edu.tr/en/bolum/computer-engineering) computer science department under supervision of [Prof. Murat Ozbayoglu](http://mozbayoglu.etu.edu.tr/). My thesis was  on ATM menu optimization for [Provus/Mastercard](https://mpts.mastercard.com/mpts/tr-tr.html) customers. Prior to that, I received my B.Sc degree at [Middle East Technical University](https://ceng.metu.edu.tr/) Computer Engineering department. 
 Also, I worked as a software engineer at [Unify/Siemens EC](https://unify.com/en/), [Mobicom](http://www.mobicom.it/MobiCom/#home), and [Cyangate Inc.](https://www.cyangate.com/).
 
-Please feel free to contact <je.karimov@gmail.com> for any question/collaborations. 
+Please feel free to [contact me](mailto:je.karimov@gmail.com) for any question/collaborations. 
 
 ### Publications
 - **Clustering Quality Improvement of k-means Using a Hybrid Evolutionary Model**<br/>
