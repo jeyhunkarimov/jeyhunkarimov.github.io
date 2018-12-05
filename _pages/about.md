@@ -19,6 +19,18 @@ Also, I worked as a software engineer at [Unify/Siemens EC](https://unify.com/en
 Please feel free to [contact me](mailto:je.karimov@gmail.com) for any question/collaborations. 
 
 ### Publications
+- **Benchmarking Distributed Stream Data Processing Systems**<br/>
+Jeyhun Karimov Tilmann Rabl , Asterios Katsifodimos, Roman Samarev, Henri Heiskanen, and Volker Markl<br/>
+ICDE 2018
+- **PolyBench: The First Benchmark for Polystores**<br/>
+Jeyhun Karimov, Tilmann Rabl, and Volker Markl<br/>
+TPCTC 2018
+- **Stream Benchmarks**<br/>
+Jeyhun Karimov<br/>
+Encyclopedia of Big Data Technologies, 2018
+- **High quality clustering of big data and solving empty-clustering problem with an evolutionary hybrid algorithm**<br/>
+Jeyhun Karimov and Murat Ozbayoglu<br/>
+IEEE International Conference on Big Data, Santa Clara 2015
 - **Clustering Quality Improvement of k-means Using a Hybrid Evolutionary Model**<br/>
 Jeyhun Karimov and Murat Ozbayoglu<br/>
 Procedia Computer Science 61 (2015): 38-45.
@@ -31,18 +43,6 @@ IEEE International Conference on Semantic Computing. 2016, California
 - **k-means Performance Improvements with Centroid Calculation Heuristics both for Serial and Parallel environments**<br/>
 Jeyhun Karimov , Murat Ozbayoglu, and Erdogan Dogdu<br/>
 IEEE International Congress on Big Data (BigData Congress), 2015, pp. 444-451
-- **High quality clustering of big data and solving empty-clustering problem with an evolutionary hybrid algorithm**<br/>
-Jeyhun Karimov and Murat Ozbayoglu<br/>
-IEEE International Conference on Big Data, Santa Clara 2015
-- **Stream Benchmarks**<br/>
-Jeyhun Karimov<br/>
-Encyclopedia of Big Data Technologies, 2018
-- **Benchmarking Distributed Stream Data Processing Systems**<br/>
-Jeyhun Karimov Tilmann Rabl , Asterios Katsifodimos, Roman Samarev, Henri Heiskanen, and Volker Markl<br/>
-ICDE 2018
-- **PolyBench: The First Benchmark for Polystores**<br/>
-Jeyhun Karimov, Tilmann Rabl, and Volker Markl<br/>
-TPCTC 2018
 
 
 ### Teaching
