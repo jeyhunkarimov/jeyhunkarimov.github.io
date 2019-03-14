@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 
+
+
 Hi! I am Jeyhun, originally from the [land of fire](https://en.wikipedia.org/wiki/The_Land_of_Fire).
 I am a researcher at [German Research Center for Artificial Intelligence](https://www.dfki.de/web) 
 and a PhD student at TU-Berlin, [Database Systems and Information Management](http://www.dima.tu-berlin.de/)  Group. My main research focuses are concurrent stream query processing and big data processing systems benchmarking. I work under supervision of [Prof. Dr. Tilmann Rabl](https://www.dima.tu-berlin.de/menue/team/dr_tilmann_rabl/). 
@@ -19,8 +21,14 @@ Also, I worked as a software engineer at [Unify/Siemens EC](https://unify.com/en
 Please feel free to [contact me](mailto:je.karimov@gmail.com) for any question/collaborations. 
 
 ### Publications
+- **AStream: Ad-hoc Shared Stream Processing**<br/>
+Jeyhun Karimov, Tilmann Rabl, and Volker Markl <br/>
+SIGMOD 2019
+- **Analyzing Efficient Stream Processing on Modern Hardware**<br/>
+Steffen Zeuch, Bonaventura Del Monte, Jeyhun Karimov, Clemens Lutz, Manuel Renz, Jonas Traub, Sebastian Breß, Tilmann Rabl, and Volker Markl <br/>
+VLDB 2019
 - **Benchmarking Distributed Stream Data Processing Systems**<br/>
-Jeyhun Karimov Tilmann Rabl , Asterios Katsifodimos, Roman Samarev, Henri Heiskanen, and Volker Markl<br/>
+Jeyhun Karimov, Tilmann Rabl , Asterios Katsifodimos, Roman Samarev, Henri Heiskanen, and Volker Markl<br/>
 ICDE 2018
 - **PolyBench: The First Benchmark for Polystores**<br/>
 Jeyhun Karimov, Tilmann Rabl, and Volker Markl<br/>
@@ -36,13 +44,13 @@ Jeyhun Karimov and Murat Ozbayoglu<br/>
 Procedia Computer Science 61 (2015): 38-45.
 - **Generic menu optimization for multi-profile customer systems**<br/>
 	Jeyhun Karimov, Murat Ozbayoglu, Bulent Tavli, and Erdogan Dogdu<br/>
-	IEEE International Symposium on Systems Engineering (ISSE), 2015, pp. 163-169.
+	IEEE International Symposium on Systems Engineering (ISSE), 2015
 - **EDL: Framework for Entity disambiguation and Linking to knowledge bases**<br/>
 Behnam Ojaghi , Jeyhun Karimov and Erdogan Dogdu<br/>
-IEEE International Conference on Semantic Computing. 2016, California
+IEEE International Conference on Semantic Computing. 2016
 - **k-means Performance Improvements with Centroid Calculation Heuristics both for Serial and Parallel environments**<br/>
 Jeyhun Karimov , Murat Ozbayoglu, and Erdogan Dogdu<br/>
-IEEE International Congress on Big Data (BigData Congress), 2015, pp. 444-451
+IEEE International Congress on Big Data (BigData Congress), 2015
 
 
 ### Teaching
@@ -57,6 +65,12 @@ Graduate course, Instructor - Dr. Alireza Rezai Mahdiraji<br/>
 TU-Berlin, Computer Science dept., 2017
 - BDASEM - Readings in Database Systems<br/>
 Graduate course, TU-Berlin, Computer Science dept., 2018
+
+
+
+
+
+
 
 
 
